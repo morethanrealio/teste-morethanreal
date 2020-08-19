@@ -33,6 +33,7 @@ Os endpoints utilizados serão:
     https://staging.mtr.center/api/project/6/
 
 ```
+O protocolo de autenticação utilizado será Basic Auth, com usuário **testefront** e senha **frontendTesting@More**.  
 
 Para submeter a sua solução, é feito o seguinte procedimento: 
 - Crie uma nova branch com o seu nome 
